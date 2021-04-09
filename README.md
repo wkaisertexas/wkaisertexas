@@ -1,0 +1,3 @@
+- I am William Kaiser
+- Currently I am a high school student.
+- Interested in Data Science.
