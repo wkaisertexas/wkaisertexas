@@ -1,6 +1,7 @@
 ## General
-- Currently I am a high school student.
+- High School senior
 - Interested in Data Science
+- College apps are currently my reality
 
 ## Featured, Coolio Projects 
 
