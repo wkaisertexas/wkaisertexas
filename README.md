@@ -7,7 +7,7 @@
 ### Random URL Generator [^1]
 [Random URL Generator](https://random-url-generator.herokuapp.com/) makes shortened URLs with random destinations. One link has a set of predefined destinations with respective proabilities. Then, when the user clicks on the link, one of the destinations is picked at random.
 
-Example: Site that takes you to FMAA (not ***FANG***) websites randomly.
+Example: Site that takes you to FAMG (not ***FANG***) websites randomly.
 - 25% - facebook.com
 - 25% - google.com
 - 25% - apple.com
