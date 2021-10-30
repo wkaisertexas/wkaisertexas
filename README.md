@@ -24,3 +24,9 @@ Also, there are some kind of goated features in there.
 2. Viewcounts for URLs (See how popular a poster is)
 
 [^1]: Repo. is private 
+
+### Society for Science -- Science Fair Project Scraper
+[Here](https://github.com/wkaisertexas/all-isef-projects) is a project that helps people scrape [Society for Science](https://society-for-science.org/abstract) to download their database of science fair projects. 
+
+#### Why?
+I really want someone to do a meta science fair project where they look at the factors that make other science fair projects successful.
