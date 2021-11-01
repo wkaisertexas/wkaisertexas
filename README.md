@@ -1,6 +1,6 @@
 ## General
 - High School senior
-- Interested in using computer science to make disruptive change
+- Interested in using computer science to make disruptive change in industries that actually matter
 - College apps are currently my reality
 
 ## Featured, Coolio Projects 
