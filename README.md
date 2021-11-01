@@ -1,6 +1,6 @@
 ## General
 - High School senior
-- Interested in Data Science
+- Interested in using computer science to make disruptive change
 - College apps are currently my reality
 
 ## Featured, Coolio Projects 
