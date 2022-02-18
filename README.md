@@ -2,7 +2,7 @@
 - High School senior
 - Interested in using computer science to make disruptive change in industries that actually matter
 - College apps are currently my reality
-
+- I make bread, check it out [here](https://opensea.io/collection/openbread)!
 ## Featured, Coolio Projects 
 
 ### Random URL Generator [^1]
