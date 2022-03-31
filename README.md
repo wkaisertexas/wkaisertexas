@@ -1,3 +1,7 @@
+
+# William Kaiser
+> A high school senior interested in computer and data science. Besides code, I bake bread, 62 loaves in the past quarter[^NFTs].
+
 ## General
 - High School senior
 - Interested in using computer science to make disruptive change in industries that actually matter
@@ -30,3 +34,5 @@ Also, there are some kind of goated features in there.
 
 #### Why?
 I really want someone to do a meta science fair project where they look at the factors that make other science fair projects successful.
+
+[^NFTs]: Each loaf of bread is converted into an NFT. Check out the collection @ [opensea.io/collection/openbread](https://opensea.io/collection/openbread)
