@@ -1,6 +1,6 @@
 
 # William Kaiser
-> A high school senior interested in computer and data science. Besides code, I bake bread, 62 loaves in the past quarter[^NFTs].
+> A high school senior interested in computer and data science. Besides code, I bake bread, 62 loaves in the past quarter[^NFTs]. Check out my [portfolio site](https://wkaisertexas.github.io/)!
 
 ## General
 - High School senior
