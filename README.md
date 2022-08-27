@@ -3,7 +3,7 @@
 > A high school senior interested in computer and data science. Besides code, I bake bread, 62 loaves in the past quarter[^NFTs]. Check out my [portfolio site](https://wkaisertexas.github.io/)!
 
 ## General
-- High School senior
+- First Year at UVA
 - Interested in using computer science to make disruptive change in industries that actually matter
 - College apps are currently my reality
 - I make bread, check it out [here](https://opensea.io/collection/openbread)!
