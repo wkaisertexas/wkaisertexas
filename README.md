@@ -4,10 +4,10 @@
 
 ## General
 - First Year at UVA
-- Interested in using computer science to make disruptive change in industries that actually matter
-- College apps are currently my reality
+- Interested in using computer science and data science. Specifically, how they intereface with physical systems.
 - I make bread, check it out [here](https://opensea.io/collection/openbread)!
-## Featured, Coolio Projects 
+
+## Featured, Cool Projects 
 
 ### Random URL Generator [^1]
 [Random URL Generator](https://random-url-generator.herokuapp.com/) makes shortened URLs with random destinations. One link has a set of predefined destinations with respective proabilities. Then, when the user clicks on the link, one of the destinations is picked at random.
