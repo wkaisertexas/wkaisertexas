@@ -9,6 +9,11 @@
 
 ## Featured, Cool Projects 
 
+### TimeLapse
+Easily create timelapses of your personal projects using a python-based macos menu bar application.
+
+[Click here to learn more](https://github.com/wkaisertexas/timelapse)
+
 ### Random URL Generator [^1]
 [Random URL Generator](https://random-url-generator.herokuapp.com/) makes shortened URLs with random destinations. One link has a set of predefined destinations with respective proabilities. Then, when the user clicks on the link, one of the destinations is picked at random.
 
