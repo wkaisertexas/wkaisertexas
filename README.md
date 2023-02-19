@@ -36,5 +36,5 @@ A python module which uses Selenium to automatically upload videos to TikTok. Su
 
 [Click me to demostrate](https://random-url-generator.herokuapp.com/1IPhWhM8qE)
 
-> Built-in link tracking makes **A / B testing** different landing pages easy
+> Built-in link tracking of link destinations makes **A / B testing** more accessible
 
