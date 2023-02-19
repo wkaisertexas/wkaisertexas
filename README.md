@@ -4,8 +4,9 @@
 [GitHub.io](https://wkaisertexas.github.io)
 
 ## General
-- Computer Science Class of '25 at the University of Virginia
-- Bread maker 
+- Majoring in Engineering Computer Science
+- Class of '25 at the University of Virginia
+- Enthusiastic read maker 
 
 ## Featured Projects 
 
