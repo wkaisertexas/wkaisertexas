@@ -28,11 +28,13 @@ A python module which uses Selenium to automatically upload videos to TikTok. Su
 ### ♺ Random URL Generator [^1]
 [Random URL Generator](https://random-url-generator.herokuapp.com/) makes shortened URLs with random destinations. One link has a set of predefined destinations with respective proabilities. Then, when the user clicks on the link, one of the destinations is picked at random.
 
-Example: Site that takes you to FAMG (not ***FANG***) websites randomly.
+**Example**: Site that randomly takes you to technology companies' websites
 - 25% - facebook.com
 - 25% - google.com
 - 25% - apple.com
 - 25% - microsoft.com
 
 [Click me to demostrate](https://random-url-generator.herokuapp.com/1IPhWhM8qE)
+
+> Built-in link tracking makes **A / B testing** different landing pages easy
 
