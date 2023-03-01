@@ -1,12 +1,27 @@
 
 # William Kaiser
 
-[GitHub.io](https://wkaisertexas.github.io)
+[Personal Website](https://wkaisertexas.github.io)
 
 ## General
-- Majoring in Engineering Computer Science
-- Class of '25 at the University of Virginia
-- Enthusiastic read maker 
+```toml
+[personal]
+first_name = 'William'
+last_name = 'Kaiser'
+prefered_language = 'python'
+pronouns = ['he', 'him']
+favorite_book = 'Don Quixote'
+
+[education]
+major = 'Computer Science (BS)'
+minor = 'Data Science'
+graduation_year = 2025
+
+[extra]
+hoobies = ['woodworking', 'electronics', 'cooking', 'coding']
+```
+
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=wkaisertexas&hide=issues&show_icons=true&count_private=true)
 
 ## Featured Projects 
 
