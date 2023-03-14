@@ -38,6 +38,12 @@ A python module which uses Selenium to automatically upload videos to TikTok. Su
 - [Repo](https://github.com/wkaisertexas/tiktok-uploader)
 - [PyPI](https://pypi.org/project/tiktok_uploader/)
 
+### Textual and Impact-Based CORD19 Clustering 
+
+Created an interactive t-SNE plot of papers from the COVID Open Research Dataset (CORD19). Used data from [Altmetric](https://www.altmetric.com) to create clusters based on impact (citations from various sources). Found very strong statistical correlation between cluster location and impact.
+
+- [Kaggle](https://www.kaggle.com/code/williamkaiser/textual-and-impact-based-cord19-clustering)
+
 ### 📝 Society for Science - Science Fair Project Scraper
 [Here](https://github.com/wkaisertexas/all-isef-projects) is a project that helps people scrape [Society for Science](https://abstracts.societyforscience.org/) to download their database of science fair projects. 
 
