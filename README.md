@@ -38,7 +38,7 @@ A python module which uses Selenium to automatically upload videos to TikTok. Su
 - [Repo](https://github.com/wkaisertexas/tiktok-uploader)
 - [PyPI](https://pypi.org/project/tiktok_uploader/)
 
-### Textual and Impact-Based CORD19 Clustering 
+### 📍 Textual and Impact-Based CORD19 Clustering 
 
 Created an interactive t-SNE plot of papers from the COVID Open Research Dataset (CORD19). Used data from [Altmetric](https://www.altmetric.com) to create clusters based on impact (citations from various sources). Found very strong statistical correlation between cluster location and impact.
 
