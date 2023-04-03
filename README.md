@@ -48,7 +48,7 @@ Created an interactive t-SNE plot of papers from the COVID Open Research Dataset
 [Here](https://github.com/wkaisertexas/all-isef-projects) is a project that helps people scrape [Society for Science](https://abstracts.societyforscience.org/) to download their database of science fair projects. 
 
 ### ♺ Random URL Generator [^1]
-[Random URL Generator](https://random-url-generator.herokuapp.com/) makes shortened URLs with random destinations. One link has a set of predefined destinations with respective proabilities. Then, when the user clicks on the link, one of the destinations is picked at random.
+[Random URL Generator](https://github.com/wkaisertexas/randomurl) makes shortened URLs with random destinations. One link has a set of predefined destinations with respective proabilities. Then, when the user clicks on the link, one of the destinations is picked at random.
 
 **Example**: Site that randomly takes you to technology companies' websites
 - 25% - facebook.com
@@ -56,7 +56,7 @@ Created an interactive t-SNE plot of papers from the COVID Open Research Dataset
 - 25% - apple.com
 - 25% - microsoft.com
 
-[Click me to demostrate](https://random-url-generator.herokuapp.com/1IPhWhM8qE)
+> Note: this project was a victim of the recent changes to Heroku deployments and is no longer publically available. 
 
 > Built-in link tracking of link destinations makes **A / B testing** more accessible
 
