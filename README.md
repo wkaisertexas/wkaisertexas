@@ -27,6 +27,15 @@ hobbies = ['woodworking', 'electronics', 'cooking', 'coding']
 
 ## Featured Projects 
 
+### 🎥 ScreenTimeLapse
+
+- Successor to [Timelapse](#-timelapse)
+- Create color-accurate screenshots in a compact MacOS menu bar application.
+- Record both webcams and screens
+- Enjoy performant, GPU accelerated accelerated with leading color and video formats
+- Fully open source [@ wkaisertexas/ScreenTimeLapse](https://github.com/wkaisertexas/ScreenTimeLapse)
+- Available now through HomeBrew `brew install --cask timelapse`
+
 ### 🔬 International Science and Engineering Fair (ISEF) Analysis
 
 Diving deep into ISEF, the world's top science fair with competition data. Examining both historical trends and creating visualizations to help newcomers demystify this competition.
