@@ -34,7 +34,7 @@ hobbies = ['woodworking', 'electronics', 'cooking', 'coding']
 - Record both webcams and screens
 - Enjoy performant, GPU accelerated accelerated with leading color and video formats
 - Fully open source [@ wkaisertexas/ScreenTimeLapse](https://github.com/wkaisertexas/ScreenTimeLapse)
-- Available now through HomeBrew `brew install --cask timelapse`
+- Available now through HomeBrew `brew install --cask https://raw.githubusercontent.com/wkaisertexas/ScreenTimeLapse/main/screentimelapse.rb`
 
 ### 🔬 International Science and Engineering Fair (ISEF) Analysis
 
