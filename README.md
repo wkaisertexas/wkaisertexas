@@ -23,8 +23,6 @@ graduation_year = 2025
 hobbies = ['woodworking', 'electronics', 'cooking', 'coding']
 ```
 
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=wkaisertexas&hide=issues&show_icons=true&count_private=true)
-
 ## Featured Projects 
 
 ### 🎥 ScreenTimeLapse
