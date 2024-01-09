@@ -51,10 +51,10 @@ Four main components are present in this project:
   
 [Check it out here](https://github.com/wkaisertexas/chatgpt)
 
-### 🎥 TimeLapse
-- Easily create timelapses of your screen and webcams
+### 🎥 Time Lapse
+- Easily create time lapses of your screen and webcams
 - Intended for programmers, hobbyists and artists to showcase their creations
-- Saves wasteful frames which would have been discarded when edited into a timelapse (a hour long screen recording can easily be several gigabytes)
+- Saves wasteful frames which would have been discarded when edited into a time lapse (a hour long screen recording can easily be several gigabytes)
 
 [Click here to learn more](https://github.com/wkaisertexas/timelapse)
 
