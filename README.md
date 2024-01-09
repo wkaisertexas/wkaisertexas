@@ -23,9 +23,14 @@ graduation_year = 2025
 hobbies = ['woodworking', 'electronics', 'cooking', 'coding']
 ```
 
-## Featured Projects 
+## Featured Projects
 
-### 🎥 ScreenTimeLapse
+<h3><a href="https://github.com/wkaisertexas/tranzlate">tranzlate</a></h3>
+
+- Open-Source Translation Utility for string catalogs
+- Utilized OpenAI's Chat APIs to conduct semantic text completition.
+
+<h3><a href="https://github.com/wkaisertexas/ScreenTimeLapse">🎥 ScreenTimeLapse</a></h3>
 
 - Successor to [Time lapse](#-timelapse)
 - Create color-accurate screenshots in a compact MacOS menu bar application.
@@ -44,12 +49,10 @@ Four main components are present in this project:
 - [Kaggle Dataset](https://www.kaggle.com/datasets/wkaisertexas/all-international-science-fair-projects) allows anyone to access ISEF data to complete their own findings
 - [Interactive t-SNE Visualization](https://wkaisertexas.github.io/all-isef-projects/) to explore project categories
 
-### ChatGPT in Terminal
+<h3><a href="https://github.com/wkaisertexas/chatgpt">ChatGPT in Terminal</a></h3>
 - Make a terminal version of ChatGPT using the [OpenAI API](https://platform.openai.com/docs/guides/gpt)
 - Styled using [clack](https://github.com/natemoo-re/clack) textual user interface
 - Published on [npm](https://www.npmjs.com/package/clack-chat-gpt)
-  
-[Check it out here](https://github.com/wkaisertexas/chatgpt)
 
 ### 🎥 Time Lapse
 - Easily create time lapses of your screen and webcams
