@@ -27,7 +27,7 @@ hobbies = ['woodworking', 'electronics', 'cooking', 'coding']
 
 ### 🎥 ScreenTimeLapse
 
-- Successor to [Timelapse](#-timelapse)
+- Successor to [Time lapse](#-timelapse)
 - Create color-accurate screenshots in a compact MacOS menu bar application.
 - Record both webcams and screens
 - Enjoy performant, GPU accelerated accelerated with leading color and video formats
