@@ -1,4 +1,3 @@
-
 # William Kaiser
 
 [![personal social website](https://wkaisertexas.github.io/social.jpg)](https://wkaisertexas.github.io/)
@@ -44,17 +43,20 @@ hobbies = ['woodworking', 'electronics', 'cooking', 'coding']
 Diving deep into ISEF, the world's top science fair with competition data. Examining both historical trends and creating visualizations to help newcomers demystify this competition.
 
 Four main components are present in this project:
+
 - [Article](https://www.linkedin.com/pulse/behind-innovation-insights-from-international-science-william-kaiser) written to explain key findings and methodologies in an accessible manner.
 - [Kaggle Notebook](https://www.kaggle.com/code/wkaisertexas/international-science-fair-analysis) which provides the source for figures and findings
 - [Kaggle Dataset](https://www.kaggle.com/datasets/wkaisertexas/all-international-science-fair-projects) allows anyone to access ISEF data to complete their own findings
 - [Interactive t-SNE Visualization](https://wkaisertexas.github.io/all-isef-projects/) to explore project categories
 
 <h3><a href="https://github.com/wkaisertexas/chatgpt">ChatGPT in Terminal</a></h3>
+
 - Make a terminal version of ChatGPT using the [OpenAI API](https://platform.openai.com/docs/guides/gpt)
 - Styled using [clack](https://github.com/natemoo-re/clack) textual user interface
 - Published on [npm](https://www.npmjs.com/package/clack-chat-gpt)
 
 ### 🎥 Time Lapse
+
 - Easily create time lapses of your screen and webcams
 - Intended for programmers, hobbyists and artists to showcase their creations
 - Saves wasteful frames which would have been discarded when edited into a time lapse (a hour long screen recording can easily be several gigabytes)
@@ -64,6 +66,7 @@ Four main components are present in this project:
 ### ⬆️ TikTok Uploader
 
 A python module which uses Selenium to automatically upload videos to TikTok. Supports both module calls and a command-line interface.
+
 - [Repo](https://github.com/wkaisertexas/tiktok-uploader)
 - [PyPI](https://pypi.org/project/tiktok_uploader/)
 
