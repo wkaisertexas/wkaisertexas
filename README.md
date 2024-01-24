@@ -2,7 +2,7 @@
 
 [![personal social website](https://wkaisertexas.github.io/social.jpg)](https://wkaisertexas.github.io/)
 
-I have a **personal portfolio** and **blog** which I built with **AstroJS**, **TailwindCSS** and **ThreeJS**. The site is statically generated and deployed onto **GitHub pages**. [Check out the site!](https://wkaisertexas.github.io)
+I have a **personal portfolio** and **blog** which I built with **AstroJS**, **TailwindCSS** and **ThreeJS**. The site is statically generated with **Astro** and deployed onto **GitHub pages**. [Check out the site!](https://wkaisertexas.github.io)
 
 ## General
 ```toml
