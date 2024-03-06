@@ -16,7 +16,6 @@ favorite_book = 'Don Quixote'
 [education]
 major = 'Computer Science (BS)'
 minor = 'Data Science'
-graduation_year = 2025
 
 [extra]
 hobbies = ['woodworking', 'electronics', 'cooking', 'coding']
