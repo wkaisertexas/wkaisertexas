@@ -26,7 +26,7 @@ I have a **personal portfolio** and **blog** which I built with **AstroJS**, **T
 
 <p align="center">
     <figure>
-        <img src="./imgs/cavalier-autonomous-racing.png" alt="Remote Command Setup" width="500"/>
+        <img src="https://github.com/user-attachments/assets/8f5d41ae-66bb-4dca-8933-cd3169ee7b9a" alt="Me at the indianpolis motor speedway" width="500"/>
         <figcaption>Me (pictured center) at the Indianapolis Motor Speedway</figcaption>
     </figure>
 </p>
