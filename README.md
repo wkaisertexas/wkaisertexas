@@ -25,10 +25,10 @@ hobbies = ['woodworking', 'electronics', 'cooking', 'coding']
 I have a **personal portfolio** and **blog** which I built with **AstroJS**, **TailwindCSS** and **ThreeJS**. The site is statically generated with **Astro** and deployed onto **GitHub pages**. [Check out the site!](https://wkaisertexas.github.io)
 
 <p align="center">
-    <figure>
-        <img src="https://github.com/user-attachments/assets/8f5d41ae-66bb-4dca-8933-cd3169ee7b9a" alt="Me at the indianpolis motor speedway" width="500"/>
-        <figcaption>Me (pictured center) at the Indianapolis Motor Speedway</figcaption>
-    </figure>
+    <img src="https://github.com/user-attachments/assets/8f5d41ae-66bb-4dca-8933-cd3169ee7b9a" alt="Me at the indianpolis motor speedway" width="500"/>
+</p>
+<p align="center">
+    Me (pictured center) at the Indianapolis Motor Speedway
 </p>
 
 ## Featured Project
