@@ -60,6 +60,12 @@ Four main components are present in this project:
 - A [Kaggle Dataset](https://www.kaggle.com/datasets/wkaisertexas/all-international-science-fair-projects) I created which allows anyone to do their own analysis on ISEF projects
 - An [Interactive t-SNE Visualization](https://wkaisertexas.github.io/all-isef-projects/) to help those new to science fair to explore project ideas
 
+### Mandelbulb in Web GPU
+
+I rendered the 3D Mandelbulb fractal in a web browser using WebGPU, the successor to WebGL. This fascinating fractal is a perfect example of how infinite series can be used to create stunning visual art.
+
+- [Repoistory](https://github.com/wkaisertexas/mandelbulb)
+- [Live Demo](https://wkaisertexas.github.io/mandelbulb/)
 <!-- <h3><a href="https://github.com/wkaisertexas/chatgpt">ChatGPT in Terminal</a></h3> -->
 
 <!-- - Make a terminal version of ChatGPT using the [OpenAI API](https://platform.openai.com/docs/guides/gpt) -->
