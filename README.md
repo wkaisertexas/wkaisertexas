@@ -5,7 +5,7 @@
 [personal]
 first_name = 'William'
 last_name = 'Kaiser'
-preferred_language = 'python'
+preferred_languages = ['cpp', 'python']
 pronouns = ['he', 'him']
 favorite_book = 'Don Quixote'
 
