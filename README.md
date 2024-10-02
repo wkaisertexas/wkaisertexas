@@ -17,6 +17,7 @@ minor = 'Data Science'
 [extra]
 hobbies = ['woodworking', 'electronics', 'cooking', 'coding']
 ```
+![GitHub Stars](https://img.shields.io/github/stars/wkaisertexas)
 
 <!-- 
 
