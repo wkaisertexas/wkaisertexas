@@ -6,10 +6,11 @@
 first_name = 'William'
 last_name = 'Kaiser'
 preferred_languages = ['cpp', 'python']
-pronouns = ['he', 'him']
 favorite_book = 'Don Quixote'
+age_first_started_programming = 10
 
 [education]
+school = 'The University of Virginia'
 major = 'Computer Science (BS)'
 minor = 'Data Science'
 
