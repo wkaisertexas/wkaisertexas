@@ -1,5 +1,7 @@
 <!-- # William Kaiser -->
 
+![GitHub Stars](https://img.shields.io/github/stars/wkaisertexas)
+
 <!-- ## General -->
 ```toml
 [personal]
@@ -17,7 +19,6 @@ minor = 'Data Science'
 [extra]
 hobbies = ['woodworking', 'electronics', 'cooking', 'coding']
 ```
-![GitHub Stars](https://img.shields.io/github/stars/wkaisertexas)
 
 <!-- 
 
