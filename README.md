@@ -31,7 +31,7 @@ hobbies = ['woodworking', 'electronics', 'cooking', 'coding']
     Me (pictured center) at the Indianapolis Motor Speedway
 </p>
 
-## Featured Project
+## Featured Projects
 
 <!-- 
 <h3><a href="https://github.com/wkaisertexas/tranzlate">tranzlate</a></h3>
@@ -56,8 +56,6 @@ Diving deep into ISEF, the world's top science fair with competition data. Exami
 Four main components are present in this project:
 
 - A [LinkedIn Article](https://www.linkedin.com/pulse/behind-innovation-insights-from-international-science-william-kaiser) written to explain key findings and methodologies in a narrative form
-- A [Kaggle Notebook](https://www.kaggle.com/code/wkaisertexas/international-science-fair-analysis) used to create the figures
-- A [Kaggle Dataset](https://www.kaggle.com/datasets/wkaisertexas/all-international-science-fair-projects) I created which allows anyone to do their own analysis on ISEF projects
 - An [Interactive t-SNE Visualization](https://wkaisertexas.github.io/all-isef-projects/) to help those new to science fair to explore project ideas
 
 ### Mandelbulb in Web GPU
