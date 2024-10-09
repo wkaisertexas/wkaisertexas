@@ -3,16 +3,15 @@
 ![GitHub Stars](https://img.shields.io/github/stars/wkaisertexas)
 
 <!-- ## General -->
+
 ```toml
 [personal]
-first_name = 'William'
-last_name = 'Kaiser'
+name = 'Will Kaiser'
 preferred_languages = ['cpp', 'python']
 favorite_book = 'Don Quixote'
-age_first_started_programming = 10
 
 [education]
-school = 'The University of Virginia'
+school = 'University of Virginia'
 major = 'Computer Science (BS)'
 minor = 'Data Science'
 
@@ -26,7 +25,7 @@ hobbies = ['woodworking', 'electronics', 'cooking', 'coding']
 -->
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/8f5d41ae-66bb-4dca-8933-cd3169ee7b9a" alt="Me at the indianpolis motor speedway" width="500"/>
+    <img src="https://github.com/user-attachments/assets/8f5d41ae-66bb-4dca-8933-cd3169ee7b9a" alt="Me at the indianpolis motor speedway" width="300"/>
 </p>
 <p align="center">
     Me (pictured center) at the Indianapolis Motor Speedway
@@ -53,8 +52,6 @@ hobbies = ['woodworking', 'electronics', 'cooking', 'coding']
 ### 🔬 International Science and Engineering Fair (ISEF) Analysis
 
 Diving deep into ISEF, the world's top science fair with competition data. Examining both historical trends and creating visualizations to help newcomers demystify this competition.
-
-Four main components are present in this project:
 
 - A [LinkedIn Article](https://www.linkedin.com/pulse/behind-innovation-insights-from-international-science-william-kaiser) written to explain key findings and methodologies in a narrative form
 - An [Interactive t-SNE Visualization](https://wkaisertexas.github.io/all-isef-projects/) to help those new to science fair to explore project ideas
