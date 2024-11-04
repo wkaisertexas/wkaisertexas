@@ -25,7 +25,7 @@ hobbies = ['woodworking', 'electronics', 'cooking', 'coding']
 -->
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/8f5d41ae-66bb-4dca-8933-cd3169ee7b9a" alt="Me at the indianpolis motor speedway" width="300"/>
+    <img src="https://github.com/user-attachments/assets/8f5d41ae-66bb-4dca-8933-cd3169ee7b9a" alt="Me at the indianpolis motor speedway" width="350"/>
 </p>
 <p align="center">
     Me (pictured center) at the Indianapolis Motor Speedway
@@ -33,8 +33,6 @@ hobbies = ['woodworking', 'electronics', 'cooking', 'coding']
 
 > [!Note]
 > Much of my recent work is private, so my GitHub may not reflect my latest projects
->
-> However, I plan to open-source my trace-driven ROS2 analysis tools developed as part of Cavalier Autonomous Racing soon, which achieve speeds 40x faster than standard ROS 2 tracing.
 
 ## Featured Projects
 
